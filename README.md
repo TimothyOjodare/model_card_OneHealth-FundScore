@@ -27,7 +27,7 @@ Standard model cards were designed for ML in general. Public health has specific
 
 ## The Exercise
 
-Each group receives a scenario describing an AI system designed for a public health application. Your task is to draft a model card for that system using the template below.
+Each student receives a scenario describing an AI system designed for a public health application. Your task is to draft a model card for that system using the template below.
 
 The scenario gives you the context. The model card is your analysis of what should be documented about this system before it is deployed. Think like a decision-maker who has to approve this tool for their community.
 
